@@ -1,7 +1,7 @@
 # 🏋️‍♂️ FitStream - Fitness Streaming App
 
 ![Project Cover](https://via.placeholder.com/1200x600/121212/FF4757?text=FitStream+Preview)
-> **Live Demo:** [Clique aqui para acessar](https://SEU-LINK-VERCEL.app)
+> **Live Demo:** [Clique aqui para acessar](https://fitstream-lime.vercel.app)
 
 ## 💡 Sobre o Projeto
 
@@ -39,7 +39,7 @@ Este projeto foi construído sem frameworks, focado em dominar a base da Web:
 
 | Desktop View | Mobile Menu |
 |:---:|:---:|
-| ![Desktop](https://via.placeholder.com/400x300/181818/FFFFFF?text=Grid+Layout) | ![Mobile](https://via.placeholder.com/200x350/181818/FFFFFF?text=Mobile+Menu) |
+| ![Desktop](/assets/img/desktop.png) | ![Mobile](/assets/img/mobile.png) |
 
 ---
 
@@ -47,7 +47,7 @@ Este projeto foi construído sem frameworks, focado em dominar a base da Web:
 
 1.  Clone o projeto:
     ```bash
-    git clone [https://github.com/SEU-USUARIO/fitstream.git](https://github.com/SEU-USUARIO/fitstream.git)
+    git clone [https://github.com/guilhermeanitelli/fitstream.git](https://github.com/guilhermeanitelli/fitstream.git)
     ```
 2.  Entre na pasta:
     ```bash
@@ -65,4 +65,4 @@ Desenvolvido por **Guilherme Anitelli**.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeAnitelli)
 
 ---
-*Este projeto é parte do meu portfólio
+*Este projeto é parte do meu portfólio profissional de Desenvolvimento Web.*
