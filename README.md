@@ -1,6 +1,6 @@
 # 🏋️‍♂️ FitStream - Fitness Streaming App
 
-![Project Cover](https://via.placeholder.com/1200x600/121212/FF4757?text=FitStream+Preview)
+![Project Cover](/assets/img/desktop.png)
 > **Live Demo:** [Clique aqui para acessar](https://fitstream-lime.vercel.app)
 
 ## 💡 Sobre o Projeto
